@@ -99,13 +99,13 @@ http://localhost:8080
 ## Install dependencies
 
 ```bash
-npm install
+ppnpm install
 ```
 
 ## Run frontend
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Frontend runs on:
